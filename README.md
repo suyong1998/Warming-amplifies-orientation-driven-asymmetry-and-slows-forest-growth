@@ -1,13 +1,10 @@
 This repository provides the analysis code used to quantify orientation-driven radial growth asymmetry in trees and to assess its spatial patterns, temporal trends, and growth consequences across Northern Hemisphere forests.
 The workflow accompanies the manuscript:
 
-Warming amplifies orientation-driven asymmetry and slows forest growth
-
-and implements the Tree Growth Asymmetry Index (TGAI) based on tree-ring measurements from equator-facing and pole-facing stem sectors.
-
-
+Warming amplifies orientation-driven asymmetry and slows forest growth and implements the Tree Growth Asymmetry Index (TGAI) based on tree-ring measurements from equator-facing and pole-facing stem sectors.
 The notebook implements the following steps:
 Main workflow (Main_TAGI.ipynb)
+
 1.Spatial and hydroclimatic analyses
 Relationships between TGAI and hydroclimatic variables (e.g., precipitation, aridity, soil moisture)
 Identification of climate-dependent envelopes of growth asymmetry
