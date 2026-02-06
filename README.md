@@ -5,7 +5,7 @@ Warming amplifies orientation-driven asymmetry and slows forest growth and imple
 The `sitede` file contains information descriptions of the 71 sites that were ultimately selected.
 The file ‘N_S_Treering_results_select.csv’ contains tree cores with a north-south orientation selected from the International Tree-Ring Data Bank (ITRDB).
 The notebook implements the following steps:
-Main workflow (Main_TAGI.ipynb)
+Main workflow (Main_TAGI4.ipynb)
 
 1.Spatial and hydroclimatic analyses
 Relationships between TGAI and hydroclimatic variables (e.g., precipitation, aridity, soil moisture)
