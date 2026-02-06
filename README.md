@@ -2,7 +2,7 @@ This repository provides the analysis code used to quantify orientation-driven r
 The workflow accompanies the manuscript:
 
 Warming amplifies orientation-driven asymmetry and slows forest growth and implements the Tree Growth Asymmetry Index (TGAI) based on tree-ring measurements from equator-facing and pole-facing stem sectors.
-The `sitede` file contains information descriptions of the 52 sites that were ultimately selected.
+The `sitede` file contains information descriptions of the 71 sites that were ultimately selected.
 The file ‘N_S_Treering_results_select.csv’ contains tree cores with a north-south orientation selected from the International Tree-Ring Data Bank (ITRDB).
 The notebook implements the following steps:
 Main workflow (Main_TAGI.ipynb)
